@@ -5,7 +5,7 @@ using Microsoft.Graph;
 using Proxa.Models;
 using Proxa.Services;
 
-namespace Proxa.Endpoints.AccountManagement
+namespace Proxa.Controllers.AccountManagement
 {
     [ApiController]
     [Route("api/[controller]")]

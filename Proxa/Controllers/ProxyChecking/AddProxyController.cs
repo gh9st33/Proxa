@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Proxa.Models;
 using Proxa.Services;
 
-namespace Proxa.Endpoints.ProxyChecking
+namespace Proxa.Controllers.ProxyChecking
 {
     [ApiController]
     [Route("api/[controller]")]

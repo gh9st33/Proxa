@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Proxa.Services;
 
-namespace Proxa.Endpoints.ProxyChecking
+namespace Proxa.Controllers.ProxyChecking
 {
     [ApiController]
     [Route("api/proxychecking/[controller]")]

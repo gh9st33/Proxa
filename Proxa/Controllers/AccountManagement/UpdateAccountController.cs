@@ -7,7 +7,7 @@ using Proxa.Helpers;
 using Microsoft.Extensions.Configuration.UserSecrets;
 using Microsoft.Graph;
 
-namespace Proxa.Endpoints.AccountManagement
+namespace Proxa.Controllers.AccountManagement
 {
     [ApiController]
     [Route("api/accountmanagement/updateaccount")]

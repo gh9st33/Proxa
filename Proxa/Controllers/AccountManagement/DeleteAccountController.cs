@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using Proxa.Services;
 using Proxa.Models;
 
-namespace Proxa.Endpoints.AccountManagement
+namespace Proxa.Controllers.AccountManagement
 {
     [Authorize]
     [ApiController]

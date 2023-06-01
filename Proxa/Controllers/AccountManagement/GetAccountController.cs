@@ -6,7 +6,7 @@ using Proxa.Services;
 using Proxa.Models;
 using Microsoft.Graph;
 
-namespace Proxa.Endpoints.AccountManagement
+namespace Proxa.Controllers.AccountManagement
 {
     [Authorize]
     [ApiController]

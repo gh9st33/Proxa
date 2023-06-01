@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Proxa.Services;
 using Proxa.Models;
 
-namespace Proxa.Endpoints.APIKeyManagement
+namespace Proxa.Controllers.APIKeyManagement
 {
     [ApiController]
     [Route("api/[controller]")]
